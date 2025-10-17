@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master branch updated.
+=======
+Feature branch updated.
+>>>>>>> feature
